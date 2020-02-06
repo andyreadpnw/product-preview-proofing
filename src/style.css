@@ -1,0 +1,50 @@
+.ProductCard-img {
+  height: auto;
+  height: 300px;
+  width: auto;
+  width: 300px;
+}
+
+.CardItem-main-card {
+  width: 320px;
+  height: 555px;
+}
+
+#tickets-edit {
+  position: relative;
+  margin: 0 auto;
+  padding: 1em;
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+
+div p {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 400px 600px;
+  grid-column-gap: 50px;
+  padding: 10px;
+}
+
+.grid-item {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.grid-item2 {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 12px;
+  text-align: left;
+}
