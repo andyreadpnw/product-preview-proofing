@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/product-preview-proofing/static/css/main.d1b05096.chunk.css",
-    "main.js": "/product-preview-proofing/static/js/main.86d8293d.chunk.js",
-    "main.js.map": "/product-preview-proofing/static/js/main.86d8293d.chunk.js.map",
+    "main.css": "/product-preview-proofing/static/css/main.cb9b0e0c.chunk.css",
+    "main.js": "/product-preview-proofing/static/js/main.33e34052.chunk.js",
+    "main.js.map": "/product-preview-proofing/static/js/main.33e34052.chunk.js.map",
     "runtime-main.js": "/product-preview-proofing/static/js/runtime-main.8d608c1c.js",
     "runtime-main.js.map": "/product-preview-proofing/static/js/runtime-main.8d608c1c.js.map",
-    "static/js/2.baea11f6.chunk.js": "/product-preview-proofing/static/js/2.baea11f6.chunk.js",
-    "static/js/2.baea11f6.chunk.js.map": "/product-preview-proofing/static/js/2.baea11f6.chunk.js.map",
+    "static/css/2.25d2dfdd.chunk.css": "/product-preview-proofing/static/css/2.25d2dfdd.chunk.css",
+    "static/js/2.4dcf476f.chunk.js": "/product-preview-proofing/static/js/2.4dcf476f.chunk.js",
+    "static/js/2.4dcf476f.chunk.js.map": "/product-preview-proofing/static/js/2.4dcf476f.chunk.js.map",
     "index.html": "/product-preview-proofing/index.html",
-    "precache-manifest.66210181af426f1877d9673616d4a968.js": "/product-preview-proofing/precache-manifest.66210181af426f1877d9673616d4a968.js",
+    "precache-manifest.884860c1ab13ea4a3e543540d665e355.js": "/product-preview-proofing/precache-manifest.884860c1ab13ea4a3e543540d665e355.js",
     "service-worker.js": "/product-preview-proofing/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/product-preview-proofing/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.baea11f6.chunk.js.LICENSE.txt": "/product-preview-proofing/static/js/2.baea11f6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/product-preview-proofing/static/media/logo.5d5d9eef.svg"
+    "static/css/2.25d2dfdd.chunk.css.map": "/product-preview-proofing/static/css/2.25d2dfdd.chunk.css.map",
+    "static/css/main.cb9b0e0c.chunk.css.map": "/product-preview-proofing/static/css/main.cb9b0e0c.chunk.css.map",
+    "static/js/2.4dcf476f.chunk.js.LICENSE.txt": "/product-preview-proofing/static/js/2.4dcf476f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8d608c1c.js",
-    "static/js/2.baea11f6.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.86d8293d.chunk.js"
+    "static/css/2.25d2dfdd.chunk.css",
+    "static/js/2.4dcf476f.chunk.js",
+    "static/css/main.cb9b0e0c.chunk.css",
+    "static/js/main.33e34052.chunk.js"
   ]
 }
